@@ -1,0 +1,44 @@
+1. ACS : 
+itu adalah Acces Control Untuk SmartCard atau reader untuk membaca 
+kartu pada karyawan yang sudah terdaftar di dalam server 
+yang akan diinputkan ke ip server perusahaan
+
+2. MagLock[ Magnetic Lock ] :
+ini adalah sebuah magnetic lock yang biasa nya dipasang ketika kita menggunakan 
+smart card kita, jadi ini berfungsi untuk mengkunci pintu agar tetutup rapat
+dan hanya bisa digunakan menggunakan kartu atau smartcard yang sudah diberi akses
+oleh server pintu mana saja yang bisa terbuka
+
+3. Emergency Door Relaese Door
+yaitu barang yang berfungsi untuk membuka pintu secara paksa dikarna kan atau 
+maglock yang telah terpasang itu tidak bisa terbuka dengan menggunakan smart card
+atau bisa digunakan saat listrik padam atau keadaan darurat lain nya
+
+4. Wiring
+yaitu sebuah komponen listrik yang disusun dengan rapi dan tertata sesuai dengan
+urutan yang sudah di sediakan
+
+5. Panel Box
+yaitu tempat kita meletakkan perkabelan kita, agar kabel kabel tidak terlihat
+acak acakkan , dan terlihat rapi
+
+6. PoE
+Yaitu Power Over Ethernet Sesuai dengan kepanjangan dari POE tersebut, 
+secara bahasa sehari-hari bisa dan dapat diartikan "penyaluran tenaga listrik menggunakan kabel ethernet 
+atau kabel jaringan". Listrik ini disalurkan melalui 2 pair 
+kabel UTP, bisa 1,2,3,6 atau 4,5,7,8.
+
+7. PoE Data Input
+yaitu kabel lan yang di inputkan ke PoE. Kabel Input itu di masukkan dari Laptop/PC
+ke PoE nya
+
+8. PoE Data Output
+yaitu kabel lan yang di inputkan ke PoE. Kabel Output itu di masukkan dari PoE ke 
+Kamera CCTV
+
+9. Lenel
+lenel ini adalah sebuah motherboard yang difungsikan untuk mengkonfigurasi
+dan untuk pemasangan kelistrikkan agar manglock dan yang lain nya bisa berfungsi,
+disinilah semua konfigurasi yang harus dilakukan ,  jika lenel ini tidak ada
+maka fungsi dari maglock ini tidak berfungsi
+

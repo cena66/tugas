@@ -1,0 +1,18 @@
+[ Nama Pembimbing Instasi : Ramadani ]
+[ Jabatan Pembimbing Instansi : Project Manager  Email : dani@visiontech.id]
+[ link yt downloader : https://www.y2mate.com/youtube/wvGLeGBjoqE ]
+
+...
+
+16 maret - Kegiatan : Bongkar dan Membersih kan Kamera AXIS
+17 maret - kegiatan : install aplikasi AXIS IP Utility
+18 maret - Kegiatan : HardReset dan Mensetting IP Kamera Axis 1435-LE Dan -
+		      Pembongkaran Kamera AXIS p5835-e MK 2 Dan Mencek bisa atau - 
+		      tidak hidupnya kamera ( Total Kamera 4 )
+18 maret - Kegiatan : Input Ip Address kamera Di Model Lanel
+23 maret - Kegiatan : Pengecekkan POE Camera cctv dan Pengecekkan Connector CCTV TrendNet
+23 maret - Kegiatan : Memperbaiki dan Pengecekkan Camera CCTV BOSCH AUTODOM 7000iHD
+26 maret - Kegiatan : Merakit Camera cctv Bosch 7000HD dan Membeli UbolD 
+27 maret - Kegiatan : Membersihkan lap , dan mengcek POE CCTV dan Mengecek kamera fix CCTV AXIS
+2 APRIL - KEGIATAN : Merakit dan Menginputkan IP ADDRESS kamera cctv bosch 7000HD
+2 APRIL - KEGIATAN : Mengantarkan paket ke loket	
